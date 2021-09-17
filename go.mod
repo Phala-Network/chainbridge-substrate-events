@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/OneOfOne/xxhash v1.2.5 // indirect
-	github.com/Phala-Network/go-substrate-rpc-client/v3 v3.0.1-0.20210910094251-d0f4bb2189ef // indirect
+	github.com/Phala-Network/go-substrate-rpc-client/v3 v3.0.1-0.20210917042541-11edd7562d57 // indirect
 	github.com/elastic/gosigar v0.8.1-0.20180330100440-37f05ff46ffa // indirect
 	github.com/pierrec/xxHash v0.1.5 // indirect
 	github.com/spaolacci/murmur3 v1.0.1-0.20190317074736-539464a789e9 // indirect
